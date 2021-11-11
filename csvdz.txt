@@ -1,0 +1,30 @@
+{
+game: "Genshin impact",
+characters:[
+{
+       name:"Diluc",
+       lvl:87,
+       weapon:"sword"
+},
+      
+{ name:"Hu Tao",
+  lvl: 90,
+  weapon:"spear"
+},
+{
+       name:"QiQi",
+       lvl:70,
+       weapon:"sword"
+},
+{
+       name:"Klee",
+       lvl:85,
+       weapon:"catalyst"
+},
+{
+       name:"Ganyu",
+       lvl:80,
+       weapon:"bow"
+}
+]
+}

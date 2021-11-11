@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<characters>
+       <character>
+       <name>Diluc</name>
+       <lvl>87</lvl>
+       <weapon>sword</weapon>
+</character>
+       <character>
+       <name>Hu Tao</name>
+       <lvl>90</lvl>
+       <weapon>spear</weapon>
+</character>
+       <character>
+       <name>QiQi</name>
+       <lvl>70</lvl>
+       <weapon>sword</weapon>
+</character>
+       <character>
+       <name>Klee</name>
+       <lvl>85</lvl>
+       <weapon>catalyst</weapon>
+</character>
+       <character>
+       <name>Ganyu</name>
+       <lvl>80</lvl>
+       <weapon>bow</weapon>
+</character>
+</characters>

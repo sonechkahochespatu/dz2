@@ -1,0 +1,28 @@
+game genshin impact 
+
+{
+"characters": [{
+"name": "Diluc",
+"lvl": 87,
+"weapon": "two-handed sword"
+},
+{
+"name": "Hu Tao",
+"lvl": 90,
+"weapon": "spear"
+},
+{
+"name": "QiQi",
+"lvl": 70,
+"weapon": "one-handed sword"
+},
+{"name": "Klee",
+"lvl": 85,
+"weapon": "catalyst"
+},
+{"name": "Ganyu",
+"lvl": 80,
+"weapon": "bow"
+}
+]
+}
